@@ -1,0 +1,11 @@
+{
+    "name": "CustomConfigXml",
+    "version": "1.0.0",
+    "cordova": {
+      "id": "custom-config-xml",
+      "platforms": [
+        "android"
+      ]
+    },
+    "description": "Cordova plugin to add property in application"
+  }
