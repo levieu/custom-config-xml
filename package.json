@@ -1,11 +1,24 @@
 {
-    "name": "CustomConfigXml",
+    "name": "cordova-custom-config-xml",
     "version": "1.0.0",
     "cordova": {
-      "id": "custom-config-xml",
+      "id": "cordova-custom-config-xml",
       "platforms": [
         "android"
       ]
     },
-    "description": "Cordova plugin to add property in application"
+    "description": "Cordova plugin to add property in android application",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/levieu/custom-config-xml.git"
+    },
+    "keywords": [
+      "cordova",
+      "plugin",
+      "android"
+    ],
+    "bugs": {
+      "url": "https://github.com/levieu/custom-config-xml/issues"
+    },
+    "homepage": "https://github.com/levieu/custom-config-xml#readme"
   }
